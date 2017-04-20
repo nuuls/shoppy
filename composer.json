@@ -1,0 +1,10 @@
+{
+    "name": "gempir/shoppy",
+    "license": "MIT",
+    "require": {
+        "phpunit/phpunit": "6.1"
+    },
+    "autoload": {
+        "classmap": ["src/", "tests/"]
+    }
+}
