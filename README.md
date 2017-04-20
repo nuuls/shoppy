@@ -3,4 +3,4 @@
 
 ## What is this?
 
-This is just a small learning and fun project to test my php skills
+This is just a small learning and fun project to test my php skills <img src="http://cdn.frankerfacez.com/emoticon/130077/1">
